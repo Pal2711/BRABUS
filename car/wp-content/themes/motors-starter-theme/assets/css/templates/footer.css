@@ -1,0 +1,10 @@
+#footer {
+  padding: 20px 0 20px;
+  background-color: var(--motors-bg-contrast);
+  color: var(--motors-contrast-text-alpha-color);
+  font-size: 13px;
+  font-weight: 100;
+}
+#footer a {
+  color: var(--motors-accent-color);
+}

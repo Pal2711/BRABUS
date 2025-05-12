@@ -1,0 +1,12 @@
+.title-box-wrapper {
+  margin-bottom: 50px;
+}
+.title-box-wrapper .container {
+  min-height: 222px;
+  display: flex;
+  align-items: center;
+}
+.title-box-wrapper .title-box {
+  color: #fff;
+  font-weight: 900;
+}
