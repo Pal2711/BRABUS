@@ -13,7 +13,6 @@ Here’s your improved `README.md` for **Brabush Car Dealership**, now enhanced 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-WordPress-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Live-Demo-Available-ff69b4?style=for-the-badge" />
 </p>
 
 ---
@@ -35,7 +34,6 @@ Here’s your improved `README.md` for **Brabush Car Dealership**, now enhanced 
 🚘 Showcase new/used cars with dynamic detail pages
 🔎 Live search + filters (brand, price, year, fuel)
 📆 Easy test drive booking
-📞 Quick contact via WhatsApp, email, or phone
 📍 Google Maps with showroom locator
 📊 Admin dashboard to manage leads and listings
 
