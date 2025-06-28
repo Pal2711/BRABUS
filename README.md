@@ -30,7 +30,7 @@ Here’s your improved `README.md` for **Brabush Car Dealership**, now enhanced 
 
 ## ✨ Key Features
 
-✨ Sleek, animated transitions using Elementor
+✨ Sleek, animated transitions using Elementor<br>
 🚘 Showcase new/used cars with dynamic detail pages
 🔎 Live search + filters (brand, price, year, fuel)
 📆 Easy test drive booking
