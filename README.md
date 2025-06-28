@@ -31,11 +31,11 @@ Here’s your improved `README.md` for **Brabush Car Dealership**, now enhanced 
 ## ✨ Key Features
 
 ✨ Sleek, animated transitions using Elementor<br>
-🚘 Showcase new/used cars with dynamic detail pages
-🔎 Live search + filters (brand, price, year, fuel)
-📆 Easy test drive booking
-📍 Google Maps with showroom locator
-📊 Admin dashboard to manage leads and listings
+🚘 Showcase new/used cars with dynamic detail pages<br>
+🔎 Live search + filters (brand, price, year, fuel)<br>
+📆 Easy test drive booking<br>
+📍 Google Maps with showroom locator<br>
+📊 Admin dashboard to manage leads and listings<br>
 
 ---
 
